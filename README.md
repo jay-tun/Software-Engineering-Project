@@ -1,4 +1,13 @@
-# Sprint Cycles
+## Project Detail
+
+This project is for Software Engineering Course, instructed by Prof. Dr. Peter Baumann. Project specification was to create a **Python library** to query data from **`Web Coverage Processing Service (WCPS)`** , a Geo datacube query language, used by many sites such as [EarthServer Federation](https://earthserver.eu/) for scientific geospatial research. The project was built throughout the semester in three sprints.
+
+
+---
+
+
+
+## Sprint Cycles
 ## Sprint1
 + Start date: 8 April 2024
 + End date:　18 April 2024
